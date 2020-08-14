@@ -1,5 +1,5 @@
 # Analyze AB Test Results
-Udacity Data Analyst Program
+Udacity Data Analyst Nanodegree Program
 
 
 ## Project Details
